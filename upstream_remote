@@ -1,1 +1,1 @@
-What is the command "upstream remote" usually used for?
+Upstream remote means that when a repository is forked, e.g. somebody else's open source project, it's a good idea to regularly synch the files in case any changes are made to the code base. Otherwise you might end up with your own code (which is on the fork) no longer working with newer versions of the repository.
